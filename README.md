@@ -1,6 +1,6 @@
 # python-header
 
-Parses module headers
+Parses module header
 
 ## Table of Contents
 
