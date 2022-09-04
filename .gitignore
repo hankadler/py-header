@@ -2,12 +2,11 @@
 *
 
 # include
-!/src
-!/src/*.py
+!/header
+!/header/*.py
 !/tests
 !/tests/*.py
 !.gitignore
-!__init__.py
 !LICENSE
 !Pipfile
 !Pipfile.lock

@@ -14,7 +14,7 @@ import textwrap
 import unittest
 
 import logger
-from src import header
+import header
 
 
 class Test(unittest.TestCase):

@@ -7,5 +7,4 @@ setup(
     description='Parses module header',
     author='Hank Adler',
     packages=['header'],
-    package_dir={'header': '.'}
 )
