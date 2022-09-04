@@ -17,11 +17,9 @@ Parses module header
 ## Setup
 
 ```bash
-git clone https://github.com/hankadler/python-header header
-cd header
-mkdir .venv
+# assumption: you're working on project with pipenv
 pipenv shell
-pipenv install
+pipenv install -e https://github.com/hankadler/python-header
 ```
 
 ## Examples
