@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "a36a5392bb1e8bbc06bfaa0761e52593cf2d83b486696bf54667ba8da616c839"
+            "sha256": "edcf862a6eb808e406268abcfc11ce95347efb51d74ede5da6b7fd1b0173fcf0"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -16,5 +16,11 @@
         ]
     },
     "default": {},
-    "develop": {}
+    "develop": {
+        "logger": {
+            "editable": true,
+            "git": "https://github.com/hankadler/python-logger",
+            "ref": "a29799185d1cccc90e14f65ca38b024004d434b1"
+        }
+    }
 }
