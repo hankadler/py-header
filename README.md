@@ -1,4 +1,4 @@
-# python-header
+# py-header
 
 Parses module header
 
@@ -19,7 +19,7 @@ Parses module header
 ```bash
 # assumption: you're working on project with pipenv
 pipenv shell
-pipenv install -e git+https://github.com/hankadler/python-header#egg=header
+pipenv install -e git+https://github.com/hankadler/py-header#egg=header
 ```
 
 ## Examples
